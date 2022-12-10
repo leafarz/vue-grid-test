@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "serve-static": "^1.13.2",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
